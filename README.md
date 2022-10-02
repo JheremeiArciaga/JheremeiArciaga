@@ -10,7 +10,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Data Analys
 
 ### How to reach me: 
 <a href="mailto: limpinjeremy@gmail.com@gmail.com">
-<img src="https://img.shields.io/badge/-limpinjeremy@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/jeremy101312.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-limpinjeremy@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@jeremyarciaga-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jheremeiarciaga/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/jeremy101312.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
