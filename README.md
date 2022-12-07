@@ -14,7 +14,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Data Analys
 
 ### Current Status Quo:
 
-- 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
+- 💼 Front-end developer<strong>React.js</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://jeremy101312.github.io/portfolio/) to get more info
