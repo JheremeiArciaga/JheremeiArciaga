@@ -8,14 +8,14 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Data Analys
 
 
 ### How to reach me: 
-<a href="mailto: limpinjeremy@gmail.com@gmail.com">
-<img src="https://img.shields.io/badge/-limpinjeremy@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@jeremyarciaga-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jheremeiarciaga/"><img src="https://img.shields.io/badge/jeremyarciaga-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/jeremy101312.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: limpinjeremy@gmail.com">
+<img src="https://img.shields.io/badge/-limpinjeremy@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@jeremyarciaga-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jheremeiarciaga/"><img src="https://img.shields.io/badge/jeremyarciaga-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.jheremeiarciaga.netlify.app/"><img src="https://img.shields.io/badge/jeremy101312.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
 - 💼 Front-end developer<strong>React.js</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about Web Development</strong>
 - 👀 See my [Personal Portfolio](https://jeremy101312.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
@@ -30,13 +30,4 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Data Analys
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
------
-Credits: [carlcastanas](https://github.com/carlcastanas)
-
-Last Edited on: 12/19/2021
-
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
 
