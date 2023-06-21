@@ -13,10 +13,10 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Data Analys
 
 ### Current Status Quo:
 
-- 💼 Front-end developer<strong>React.js</strong>.
+- 💼 Front-end developer<strong> React.js</strong>.
 - 🔍 I’m looking for connections in <strong>Frontend Development</strong> Industry.
 - 💬 Feel free to discuss with me about Web Development</strong>
-- 👀 See my [Personal Portfolio](https://jeremy101312.github.io/portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
 
 ### Tools I work upon : 🛠
 
