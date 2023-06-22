@@ -15,7 +15,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 
 - 💼 Front-end developer<strong> React.js</strong>.
 - 🔍 I’m looking for connections in <strong>Frontend Development</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Frontend and Web Development</strong>
+- 💬 Feel free to discuss with me about <strong>Front-end, Web Development and Data Analyst</strong>
 - 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
 
 ### Tools I work upon : 🛠
