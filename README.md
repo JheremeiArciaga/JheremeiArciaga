@@ -12,7 +12,9 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 - 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeremygatchion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jheremei-arciaga-013861238) <a href="https://github.com/https://github.com/JheremeiArciaga" target="_blank">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeremygatchion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jheremei-arciaga-013861238) 
+
+<a href="https://github.com/https://github.com/JheremeiArciaga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/jeremygatchion/" target="_blank">
