@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
-I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend development and Data Analyst**. I design and develop things for the web..<br>
+I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend development and Data Analyst**. I design and develop things for the web..<br><br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jheremei+Arciaga%2C+23+years+old;Front-end+Developer;Data+Analyst)
 
 ### Current Status Quo:
