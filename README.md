@@ -11,7 +11,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 - 💬 I want to become a Full Stack Web Developer
 - 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
 
-### Socials:
+### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeremygatchion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jheremei-arciaga-013861238) 
 
 
