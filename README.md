@@ -11,14 +11,14 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 <a href="mailto: limpinjeremy@gmail.com">
 <img src="https://img.shields.io/badge/-limpinjeremy@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><a href="https://www.instagram.com/ionictech1/">  
 <img src="https://img.shields.io/badge/@jeremyarciaga-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/jheremeiarciaga/"><img src="https://img.shields.io/badge/jeremyarciaga-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.jheremeiarciaga.netlify.app/">
-<img src="https://img.shields.io/badge/jeremy101312.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white">
+
 </a>
 
 ### Current Status Quo:
 
 - 💼 Front-end developer<strong> React.js</strong>.
 - 🔍 I’m looking for connections in <strong>Frontend Development</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Front-end, Web Development and Data Analyst</strong>
+- 💬 I want to become a Full Stack Web Developer
 - 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
 
 ### Tools I work upon : 🛠
