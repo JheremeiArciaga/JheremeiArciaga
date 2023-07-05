@@ -32,7 +32,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jheremeiarciaga&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jheremeiarciaga&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jheremeiarciaga&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 <img id="visitors" src="https://visitcount.itsvg.in/api/test?icon=5&amp;color=6" alt="" class="md:ml-36 mb-4">
