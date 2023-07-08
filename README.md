@@ -31,7 +31,6 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jheremeiarciaga&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jheremeiarciaga&theme=onedark&hide_border=true)<br/>
 
 
 ---
