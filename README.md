@@ -24,7 +24,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white height="40" width="70")](https://discord.gg/TP3fQKRBmC ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jeremy) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white )](https://discord.gg/TP3fQKRBmC height="40" width="70") [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jeremy) 
   
   
 </div>  
