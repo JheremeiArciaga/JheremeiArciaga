@@ -23,10 +23,11 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jheremei-arciaga-013861238/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
+<a href="https://discord.gg/TP3fQKRBmC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TP3fQKRBmC" height="30" width="40" /></a>
   
   [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jeremy) 
   
-  <a href="https://discord.gg/TP3fQKRBmC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TP3fQKRBmC" height="30" width="40" /></a>
+  
 </div>  
 
 
