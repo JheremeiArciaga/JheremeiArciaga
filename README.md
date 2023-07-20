@@ -9,7 +9,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 - 💼 Front-end developer<strong> React.js</strong>.
 - 🔍 I’m looking for connections in <strong>Frontend Development</strong> Industry.
 - 💬 I want to become a Full Stack Web Developer
-- 👀 See my [Personal Portfolio](https://jheremeiarciaga.github.io/My_Portfolio/) to get more info
+- 👀 See my [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) to get more info
 
 ##
 ### Connect with me:
