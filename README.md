@@ -38,7 +38,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 
 
 ---
-<img id="visitors" src="https://visitcount.itsvg.in/api/test?icon=5&amp;color=6" alt="" class="md:ml-36 mb-4">
+🚀 <img id="visitors" src="https://visitcount.itsvg.in/api/test?icon=5&amp;color=6" alt="" class="md:ml-36 mb-4">
 
 
 
