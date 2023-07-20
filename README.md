@@ -11,7 +11,7 @@ I'm **Jheremei Arciaga** also known as **Jhem**, with expertise in **Frontend de
 - 💬 I want to become a Full Stack Web Developer
 - 👀 See my portfolio to get more info [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 ##
-### Connect with me: 🔗
+### Connect with me: 📫
 <div align="left">
 <a href="https://github.com/https://github.com/JheremeiArciaga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
